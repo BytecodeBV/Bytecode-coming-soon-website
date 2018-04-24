@@ -1,0 +1,13 @@
+{
+  "name": "Bytecode-coming-soon-website",
+  "version": "1.0.0",
+  "description": "Coming soon website for Bytecode",
+  "main": "app.js",
+  "repository": "https://github.com/BytecodeBV/Bytecode-coming-soon-website",
+  "author": "Luciano Nooijen <lucianonooijen@gmail.com>",
+  "license": "GPL-3.0",
+  "private": false,
+  "devDependencies": {
+    "parcel-bundler": "^1.7.1"
+  }
+}
