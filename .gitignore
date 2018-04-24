@@ -14,6 +14,7 @@ Thumbs.db
 coverage
 docs/
 .cache/
+dist/
 
 # Code editors
 *.swp
